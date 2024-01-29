@@ -1,0 +1,6 @@
+﻿ <27021454541387896> 23/01/2024 16:11:41.195     [Error  ] - Create error: std, Program: "Browse - std".
+ <264834746661932928> 23/01/2024 16:12:26.646     [Error  ] - Create error: std, Program: "Browse - std".
+ <234058563948782112> 23/01/2024 16:13:24.776     [Error  ] - [MgGui.dll] Help URL is invalid, Program: "Browse - std".
+ <199808761024429952> 23/01/2024 20:44:20.010     [Error  ] - Failed to open, data source: std, Program: "Browse - std".
+ <328520361295220672> 23/01/2024 21:20:30.438     [Error  ] - Failed to open, data source: truck, Program: "Browse - truck".
+ <-1> 26/01/2024 19:50:40.612     [Error  ] - Data Sources full open of "D:\MagicXPA\XPA49\Projects\gitDemo\Source\DataSources.xml" ("D:\MagicXPA\XPA49\Projects\gitDemo\Source\DataSourcesIndex.xml" is outdated! It is recommended to regenerate the project's 'Source' folder from an up-to-date export file.)

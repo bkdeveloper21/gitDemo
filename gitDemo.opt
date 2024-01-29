@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <MobileDesignMode Val="N"/>
+
+  <EditProjectMode Val="N"/>
+
+  <DebugMode Val="N"/>
+
+  <RIAExecutionPlatform Val="Desktop"/>
+
+  <WatchListItems>
+    <RestData/>
+  </WatchListItems>
+
+  <VisitedTasks>
+    <VisitedTask>
+      <PrgIsn Val="167772165"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="167772166"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="167772166"/>
+      <TaskIsn Val="167772162"/>
+    </VisitedTask>
+  </VisitedTasks>
+
+</Application>
